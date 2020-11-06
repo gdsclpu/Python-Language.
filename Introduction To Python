@@ -1,0 +1,168 @@
+Python is a widely used general-purpose, high level programming language. It was created by Guido van Rossum in 1991 and 
+further developed by the Python Software Foundation. It was designed with an emphasis on code readability, and its syntax allows
+programmers to express their concepts in fewer lines of code.
+
+Python is a programming language that lets you work quickly and integrate systems more efficiently.
+
+There are two major Python versions: Python 2 and Python 3. Both are quite different.
+
+Beginning with Python programming:
+
+1) Finding an Interpreter:
+
+Windows: There are many interpreters available freely to run Python scripts like IDLE (Integrated Development Environment)
+that comes bundled with the Python software downloaded from http://python.org/.
+
+Linux: Python comes preinstalled with popular Linux distros such as Ubuntu and Fedora. To check which version of
+Python you’re running, type “python” in the terminal emulator. The interpreter should 
+start and print the version number.
+
+2) Writing our first program:
+
+Just type in the following code after you start the interpreter
+
+    >>>print("Wellcome To DSC-LPU")
+    
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    
+Python designed by Guido van Rossum at CWI has become a widely used general-purpose, high-level programming language.
+
+Prerequisites:
+Knowledge of any programming language can be a plus.
+
+Reason for increasing popularity
+-> Emphasis on code readability, shorter codes, ease of writing
+-> Programmers can express logical concepts in fewer lines of code in comparison to languages such as C++ or Java.
+-> Python supports multiple programming paradigms, like object-oriented, imperative and functional programming or procedural.
+-> There exists inbuilt functions for almost all of the frequently used concepts.
+Philosophy is “Simplicity is the best”.
+LANGUAGE FEATURES
+
+
+-->Interpreted
+-------> There are no separate compilation and execution steps like C and C++.
+-------> Directly run the program from the source code.
+-------> Internally, Python converts the source code into an intermediate form called bytecodes which is then translated into native language of specific computer to run it.
+-------> No need to worry about linking and loading with libraries, etc.
+
+
+--> Platform Independent
+-------> Python programs can be developed and executed on multiple operating system platforms.
+-------> Python can be used on Linux, Windows, Macintosh, Solaris and many more.
+-------> Free and Open Source; Redistributable
+
+
+--> High-level Language
+-------> In Python, no need to take care about low-level details such as managing the memory used by the program.
+
+--> Simple
+-------> Closer to English language;Easy to Learn
+-------> More emphasis on the solution to the problem rather than the syntax
+
+--> Embeddable
+      Python can be used within C/C++ program to give scripting capabilities for the program's users.
+
+Robust:
+   Exceptional handling features
+   Memory management techniques in built
+   Rich Library Support
+   The Python Standard Library is vary vast.
+   Known as the "batteries included" philosophy of Python ;It can help do various things involving regular expressions, documentation generation, unit testing, threading, databases, web browsers, CGI, email, XML, HTML, WAV files, cryptography, GUI and many more.
+   Besides the standard library, there are various other high-quality libraries such as the Python Imaging Library which is an amazingly simple image manipulation library.
+  
+                                     
+                                     
+                                     
+                                     Python vs JAVA
+
+Python	                                                                                                             Java
+
+Dynamically Typed1.No need to declare anything.                               Statically Typed 1.All variable names (along with their types) must be explicitly declared.
+                                                                              Attempting to assign an object of the wrong type to a variable name triggers a type exception.
+                                                                              2.Type casting is required when using container objects.
+An assignment statement binds a name to an object,
+and the object can be of any 
+type.2.No type casting required when using container 
+objects
+    
+    
+Concise Express much in limited words                                         	VerboseContains more words
+Compact	                                                                         Less Compact
+Uses Indentation for structuring code                                          	Uses braces for structuring code    
+
+
+
+
+
+
+
+
+
+
+
+Softwares making use of Python
+Python has been successfully embedded in a number of software products as a scripting language.
+GNU Debugger uses Python as a pretty printer to show complex structures such as C++ containers.
+Python has also been used in artificial intelligence
+Python is often used for natural language processing tasks.
+Current Applications of Python
+A number of Linux distributions use installers written in Python example in Ubuntu we have the Ubiquity
+Python has seen extensive use in the information security industry, including in exploit development.
+Raspberry Pi– single board computer uses Python as its principal user-programming language.
+Python is now being used Game Development areas also.
+Pros:
+Ease of use
+Multi-paradigm Approach
+Cons:
+Slow speed of execution compared to C,C++
+Absence from mobile computing and browsers
+For the C,C++ programmers switching to python can be irritating as the language requires proper 
+indentation of code. Certain variable names commonly used like sum are functions in python. So C, C++ programmers have to look out for these.
+Industrial Importance
+Most of the companies are now looking for candidates who know about Python Programming. 
+Those having the knowledge of python may have more chances of impressing the interviewing panel. So 
+I would suggest that beginners should start learning python and excel in it.
+
+
+
+
+
+
+
+
+Python is a high level, interpreted and general purpose dynamic programming language that focuses on code readability.It has fewer steps when compared to Java and C.It was founded in 1991 by developer Guido Van Rossum.It is used in many organizations as it supports multiple programming paradigms.It also performs automatic memory management.
+Advantages : 1) Presence of third-party modules
+2) Extensive support libraries(NumPy for numerical calculations, Pandas for data analytics etc)
+3) Open source and community development
+4) Easy to learn
+5) User-friendly data structures
+6) High-level language
+7) Dynamically typed language(No need to mention data type based on value assigned, it takes data type)
+8) Object-oriented language
+9) Portable and Interactive
+10) Portable across Operating systems
+
+Applications : 1) GUI based desktop applications(Games, Scientific Applications)
+2) Web frameworks and applications
+3) Enterprise and Business applications
+4) Operating Systems
+5) Language Development
+6) Prototyping
+
+Organizations using Python : 1) Google(Components of Google spider and Search Engine)
+2) Yahoo(Maps)
+3) YouTube
+4) Mozilla
+5) Dropbox
+6) Microsoft
+7) Cisco
+8) Spotify
+9) Quora
+For full list of companies using Python refer DZone.
+
+
+
+
+----------------------------------------------- End of the Introduction---------------------------------------------------
+    
+  
